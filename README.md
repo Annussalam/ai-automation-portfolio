@@ -68,21 +68,22 @@ An intelligent workflow for automating content-related tasks:
 - Organize content in Google Sheets.
 - Automate repetitive content preparation activities.
 
+
 ### 4. AI Voice Calling & Receptionist Agent
 
-ai-voice-calling-agent/README.md
+**Tools:** n8n, Vapi, MCP Server, Supabase, Google Sheets
 
-**Tools:** n8n, Supabase, AI APIs, Webhooks
-
-An AI-powered voice receptionist prototype designed to:
+An AI-powered voice receptionist designed to:
 
 - Handle customer inquiries through AI-powered conversations.
 - Retrieve relevant business and product information.
-- Integrate with business databases and automation workflows.
-- Support automated customer interactions.
-- Explore practical applications of AI voice agents in customer service.
+- Access customer records through Supabase.
+- Create orders and update customer information.
+- Connect voice interactions with automated business workflows.
 
 **Status:** Developed & Initially Tested
+
+**[View Project Details & Workflow Screenshots](ai-voice-calling-agent/README.md)**
 
 ## 🛠️ Technologies & Tools
 
