@@ -30,6 +30,8 @@ My primary areas of focus include:
 
 ### 1. AI Email Customer Support Agent
 
+ai-email-support-agent/README.md
+
 **Tools:** n8n, Gmail, LLMs, Google Workspace
 
 An AI-powered customer support automation designed to:
@@ -54,6 +56,8 @@ An Instagram customer engagement automation designed to:
 
 ### 3. AI Content & LinkedIn Automation
 
+linkedin-content-automation/README.md
+
 **Tools:** n8n, LLMs, Google Sheets, AI Image Generation
 
 An intelligent workflow for automating content-related tasks:
@@ -64,7 +68,9 @@ An intelligent workflow for automating content-related tasks:
 - Organize content in Google Sheets.
 - Automate repetitive content preparation activities.
 
-### 4. AI Voice Receptionist (Prototype)
+### 4. AI Voice Calling & Receptionist Agent
+
+ai-voice-calling-agent/README.md
 
 **Tools:** n8n, Supabase, AI APIs, Webhooks
 
@@ -76,7 +82,7 @@ An AI-powered voice receptionist prototype designed to:
 - Support automated customer interactions.
 - Explore practical applications of AI voice agents in customer service.
 
-**Status:** Prototype — Under Testing & Improvement
+**Status:** Developed & Initially Tested
 
 ## 🛠️ Technologies & Tools
 
