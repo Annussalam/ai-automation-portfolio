@@ -67,11 +67,19 @@ The system is designed to handle customer conversations, retrieve business infor
 
 ## 📸 Workflow Screenshots
 
-### Main AI Voice Calling Agent
-*Screenshot will be added.*
+### 1. MCP Server — Main Workflow
+![MCP Server Workflow](MCP%20SERVER%20AI%20CALLING%20AGENT.png)
 
-### MCP Server
-*Screenshot will be added.*
+### 2. Supabase Data Fetching
+![Supabase Data Fetching](supa%20base%20data%20fetching.png)
+
+### 3. Google Sheets Order Creation
+![Google Sheets Order Creation](create%20order%20in%20data%20sheet.png)
+
+### 4. Customer Data Update
+![Customer Data Update](customer%20data%20update.png)
+
+
 
 ### Connected Business Workflows
 - Supabase Data Fetching
@@ -82,7 +90,7 @@ The system is designed to handle customer conversations, retrieve business infor
 
 ## 🎥 Demo Video
 
-A demonstration video will be added after deployment and integration testing.
+Demo video coming soon — after deployment and testing.
 
 ## 🚀 Deployment Status
 
