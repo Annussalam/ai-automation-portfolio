@@ -1,6 +1,9 @@
 
 # AI Instagram Lead Qualification & Customer Engagement Agent
 
+
+**[View Project Details](instagram-lead-qualification-agent/README.md)**
+
 ## 📌 Project Overview
 
 An AI-powered Instagram customer engagement and lead qualification system built using **n8n, Google Gemini, Instagram API, Meta Webhooks, and Gmail**.
