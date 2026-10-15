@@ -60,9 +60,13 @@ Automates content research, post creation, AI image generation, content manageme
 - Centralizes content and image management.
 - Supports consistent LinkedIn content production.
 
+
 ## 📸 Workflow Screenshot
 
-*Workflow screenshot will be added here.*
+The screenshot below illustrates the end-to-end n8n automation workflow, from AI-powered content generation and image creation to Google Sheets integration, Google Drive file management, and automated LinkedIn publishing.
+
+![LinkedIn Content Automation Workflow](linkden%20posting%20automation.png)
+
 
 ## 🎥 Demo Video
 
