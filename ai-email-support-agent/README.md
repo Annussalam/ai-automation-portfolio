@@ -1,9 +1,11 @@
 
 # AI Email Customer Support Agent
 
+**Problem:** Customers email the same questions about prices and delivery all day. This agent replies to routine ones and sends sensitive or unclear ones to a person for review.
+
 ## Project Overview
 
-An AI-powered Email Customer Support Agent developed using n8n for **Blooms & Petals**, a flower shop business scenario.
+An AI-powered Email Customer Support Agent built with n8n as a demo for **Blooms & Petals**, a flower shop scenario. It has not been used by a real business yet.
 
 The agent automates customer inquiries, analyzes customer intent, generates relevant responses using business information, and escalates sensitive or complex requests for human review.
 
@@ -11,7 +13,7 @@ This solution demonstrates how AI-powered automation can streamline customer sup
 
 **Project Type:** AI Agent & Business Automation
 
-**Project Status:** Developed & Tested
+**Project Status:** Built and tested as a demo. Ready to be adapted for a real business.
 
 ## Business Problem
 
@@ -63,7 +65,7 @@ A recorded demonstration of the workflow will be added here.
 
 ## Project Outcome
 
-A functional learning project demonstrating how AI can support email customer service, automate repetitive inquiries, and maintain human oversight for sensitive cases.
+A working demo of an email assistant that saves staff time on routine questions while keeping a person in control of sensitive replies. Next step: test it with a real business inbox.
 
 ---
 
