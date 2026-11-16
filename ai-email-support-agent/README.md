@@ -57,16 +57,15 @@ It also includes human-review logic for sensitive, urgent, or low-confidence inq
 
 ## Workflow Screenshot
 
-A screenshot of the n8n workflow will be added here.
+![n8n workflow](email-workflow.png.png)
 
 ## Demo Video
 
-A recorded demonstration of the workflow will be added here.
-
+Demo video coming soon. Message me for a live demo.
 ## Project Outcome
 
 A working demo of an email assistant that saves staff time on routine questions while keeping a person in control of sensitive replies. Next step: test it with a real business inbox.
-
 ---
 
 **Developed by Annus Salam**
+Want a version for your business? Message me: [your email] | [your LinkedIn or Instagram link]
