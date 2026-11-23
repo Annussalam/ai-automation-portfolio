@@ -21,7 +21,7 @@ The assistant answers only from the clinic's own information. It is not designed
 
 ## Workflow 1: WhatsApp Assistant
 
-![WhatsApp assistant workflow](whatsapp-workflow.png)
+[WhatsApp dental assistant workflow](dental%20ai%20recipcionist.png)
 
 - Receives WhatsApp messages and answers them with an AI agent.
 - Searches the Supabase vector store, so answers come from the clinic's own information (RAG).
