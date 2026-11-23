@@ -12,7 +12,7 @@
 
 ## System Overview
 
-![Full system workflow](knowledge-base-workflow.png)
+![Full system workflow](dental%20ai%20recipcionist%281%29.png)
 
 ## What patients can ask
 
