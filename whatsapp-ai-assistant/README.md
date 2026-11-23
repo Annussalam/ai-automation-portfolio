@@ -10,6 +10,10 @@
 
 **Tools:** n8n, WhatsApp Cloud API, Groq (LLM), OpenAI Embeddings, Supabase Vector Store, Redis, Google Sheets, JavaScript
 
+## System Overview
+
+![Full system workflow](knowledge-base-workflow.png)
+
 ## What patients can ask
 
 - Services and treatments (for example cleaning and whitening)
@@ -21,7 +25,7 @@ The assistant answers only from the clinic's own information. It is not designed
 
 ## Workflow 1: WhatsApp Assistant
 
-[WhatsApp dental assistant workflow](dental%20ai%20recipcionist.png)
+![WhatsApp assistant workflow](dental%20ai%20recipcionist.png)
 
 - Receives WhatsApp messages and answers them with an AI agent.
 - Searches the Supabase vector store, so answers come from the clinic's own information (RAG).
@@ -30,8 +34,6 @@ The assistant answers only from the clinic's own information. It is not designed
 - Logs every conversation to Google Sheets, so the clinic can review what patients asked.
 
 ## Workflow 2: Knowledge Base Builder
-
-![Knowledge base builder workflow](knowledge-base-workflow.png)
 
 1. Starts from the clinic's website address.
 2. Downloads the page and extracts the links and content.
@@ -57,7 +59,6 @@ The knowledge base holds what the clinic offers. Chat memory only keeps track of
 
 - Ran the knowledge base builder and confirmed the website content was saved in Supabase.
 - Sent test messages from Meta's WhatsApp test number and checked that replies used the stored information.
-- Tested [number] sample questions: [number] answered correctly from the knowledge base, [number] needed improvement.
 
 ## Works for Other Businesses
 
