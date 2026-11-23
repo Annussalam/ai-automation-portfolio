@@ -133,9 +133,11 @@ Explore individual projects for:
 
 ## 📫 Connect With Me
 
+**Email:** annus.automates@gmail.com
 **GitHub:** https://github.com/Annussalam
+**LinkedIn:** https://www.linkedin.com/in/annus-salam/
+**Instagram:** https://www.instagram.com/annus.ai_/
 
 Interested in AI agents, workflow automation, or AI-powered business solutions? Feel free to connect.
-
 
 **Learning AI. Building with AI. Solving Real Business Problems.**
